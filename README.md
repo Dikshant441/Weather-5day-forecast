@@ -46,3 +46,11 @@ To run the WeatherApp locally, follow these steps:
 
 ## 📧Contacts
 For any inquiries or feedback, please contact [Here](mailto:singhdikshant200@gmail.com).
+
+
+## if got some error regarding Node Packages install these packages
+- npm i react-icons
+- npm i axios
+- npm i react-i18next
+- npm i --save moment
+- npm i gsap
